@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Centro estetico</title>
+<link rel='stylesheet' href='css/woocommerce-layout.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)'/>
+<link rel='stylesheet' href='css/woocommerce.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/font-awesome.min.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='style.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Oswald:400,500,700%7CRoboto:400,500,700%7CHerr+Von+Muellerhoff:400,500,700%7CQuattrocento+Sans:400,500,700' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/easy-responsive-shortcodes.css' type='text/css' media='all'/>
+</head>
+<body class="home page page-template page-template-template-portfolio page-template-template-portfolio-php">
+<div id="page">
+	<div class="container" align="center">
+		<header id="masthead" class="site-header">
+		<div class="site-branding">
+			<h1 class="site-title"><a href="index.html" rel="home">Centro Estetico</a></h1>
+			<h2 class="site-description">Benvenuto nel gestionale pacchetti del centro estetico</h2>
+		</div>
+		</header>
+		<!-- #masthead -->
+<div class="container" style="text-align:center;">
+<a href="centro"><img src="img/estetico.jpg"></a>
+</div>
+		</div>
+</div>
+	<footer id="colophon" class="site-footer" style= "background-color: white;">
+	</footer>
 
-You can use the [editor on GitHub](https://github.com/carlito585/carlito585.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlito585/carlito585.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
