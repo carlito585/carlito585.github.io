@@ -1,0 +1,5 @@
+, `fianchi`, `braccio_sx`, `braccio_dx`, `ginocchio_sx`, `ginocchio_dx`, `coscia_sx`, `coscia_dx`
+
+,'".$_POST["fianchi"]."','".$_POST["braccio_dx"]."',
+    '".$_POST["braccio_sx"]."','".$_POST["ginocchio_dx"]."','".$_POST["ginocchio_sx"]."','".$_POST["coscia_dx"]."','".$_POST["coscia_sx"]."'
+
